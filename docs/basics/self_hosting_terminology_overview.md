@@ -11,10 +11,10 @@ When a different transmission mediums are used a modem is needed in order to tra
 A router forwards and receives (routes) data (packets) to and from networks. Routers are normally located at the edge of a network as most networks use them to Network Address Translation (NAT) the Internet Protocol (IP) addresses.
 Some home "modems" will combined multiple functions in to one device including routing, switching and wireless connectivity.
 
-### Switch
+### Switch - foo
 A switch connects multiple devices together using physical cables, in home or office this is done using ethernet cables. Switches come in different sizes for ever use case, the most *common* sizes are 4/8/12/16/24/48 ports. They also operate at different transmission speeds, the standard (what you will find in most homes and in most computers/servers) speed right now is 1 gigabit.
 
-### Proxy
+### Proxy - bar
 A proxy acts as an intermediary for requests from clients to servers normally used for web requests to the internet. Requesting data in this manner will mask the clients from server, the server will only see the IP address of the proxy. 
 
 Lets add some stuff ... here ...!
