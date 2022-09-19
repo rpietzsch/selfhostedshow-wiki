@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a65ad0179dcd4339",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a72b69147ee801c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/basics/self_hosting_terminology_overview.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7536939c5e3a8e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "425630cd17510d1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db224d15a540387",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc24645460ea1d4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94ff35aee70a1148",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf13b7d43ac5db51",
+    "type": "split",
+    "children": [
+      {
+        "id": "763aa080873ed852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f2387a97fc5746a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/basics/self_hosting_terminology_overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68eeabf3a22e72dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/basics/self_hosting_terminology_overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1297a0e17a88a200",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad16e3b9dc511d14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/basics/self_hosting_terminology_overview.md"
+              }
+            }
+          },
+          {
+            "id": "ba03fa3774789bcf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "active": "ba03fa3774789bcf",
+  "lastOpenFiles": [
+    "docs/basics/getting-started.md",
+    "docs/basics/self_hosting_terminology_overview.md"
+  ]
+}
