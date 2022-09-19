@@ -17,6 +17,8 @@ A switch connects multiple devices together using physical cables, in home or of
 ### Proxy
 A proxy acts as an intermediary for requests from clients to servers normally used for web requests to the internet. Requesting data in this manner will mask the clients from server, the server will only see the IP address of the proxy. 
 
+Lets add some stuff ... here ...!
+
 ![proxy](images/self_hosting_terminology_overview_proxy.svg)
 
 ### Reverse Proxy
