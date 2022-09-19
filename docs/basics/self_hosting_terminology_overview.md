@@ -7,7 +7,7 @@ This Overview will cover common topics encountered when starting with self hosti
 A Modem converts data into different formats, used for various transmission mediums (coaxial to ethernet for example).
 When a different transmission mediums are used a modem is needed in order to translate from one medium to the other. 
 
-### Router
+### Router - bar 
 A router forwards and receives (routes) data (packets) to and from networks. Routers are normally located at the edge of a network as most networks use them to Network Address Translation (NAT) the Internet Protocol (IP) addresses.
 Some home "modems" will combined multiple functions in to one device including routing, switching and wireless connectivity.
 
